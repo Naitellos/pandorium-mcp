@@ -134,7 +134,7 @@ Supported house systems: `placidus` (default), `koch`, `regiomontanus`, `equal`,
 Want AI-powered interpretations, reading history, gamification, and more?
 
 - **Web App**: [pandorium.app](https://pandorium.app)
-- **Telegram Mini App**: [t.me/PandoriumBot/app](https://t.me/PandoriumBot/app)
+- **Telegram Mini App**: [t.me/pandorium_app_bot/app](https://t.me/pandorium_app_bot/app)
 
 The MCP server provides raw mystical data. The full Pandorium platform adds:
 - Deep AI-powered Jungian interpretations
