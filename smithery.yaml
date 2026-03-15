@@ -1,0 +1,6 @@
+# Smithery configuration for Pandorium MCP Server
+# https://smithery.ai/docs/config
+
+startCommand:
+  type: http
+  url: https://pandorium.app/mcp
